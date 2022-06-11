@@ -1,0 +1,7 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,success,bytes,sentBytes,grpThreads,allThreads,Latency,Hostname,Connect
+1654946514912,5311,https://client.sana-commerce.dev/,200,OK,Thread Group 1-3,true,9645256,4638,3,3,418,DESKTOP-O3K9QNA,204
+1654946520228,275,https://rest.sana-commerce.dev/petclinic/api/owners,201,,Thread Group 1-3,true,703,566,3,3,275,DESKTOP-O3K9QNA,229
+1654946520504,191,https://rest.sana-commerce.dev/petclinic/api/owners,200,,Thread Group 1-3,true,83338,392,3,3,73,DESKTOP-O3K9QNA,0
+1654946514910,5777,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-3,true,9729297,5596,3,3,766,DESKTOP-O3K9QNA,433
+1654946514316,168,https://client.sana-commerce.dev/,200,OK,Thread Group 1-1,true,1778,506,2,2,167,DESKTOP-O3K9QNA,120
+1654946514579,437,https://client.sana-commerce.dev/,200,OK,Thread Group 1-2,true,1778,506,2,2,437,DESKTOP-O3K9QNA,138

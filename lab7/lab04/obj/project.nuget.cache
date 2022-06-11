@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "P8tLeEWqOab9pZbAAtyr8H+TP41JECXGA2A/4GeVnAFu2etEveAHk0aH7HV2R0Zt1171kJnS8g/MDVjC6n3tYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vm_10\\OneDrive\\Робочий стіл\\TESTING\\lab7\\lab04\\lab04.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vm_10\\.nuget\\packages\\allure.commons\\3.5.0.73\\allure.commons.3.5.0.73.nupkg.sha512",
+    "C:\\Users\\vm_10\\.nuget\\packages\\aspectinjector\\2.6.0\\aspectinjector.2.6.0.nupkg.sha512",
+    "C:\\Users\\vm_10\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
+    "C:\\Users\\vm_10\\.nuget\\packages\\microsoft.codecoverage\\16.11.0\\microsoft.codecoverage.16.11.0.nupkg.sha512",
+    "C:\\Users\\vm_10\\.nuget\\packages\\microsoft.net.test.sdk\\16.11.0\\microsoft.net.test.sdk.16.11.0.nupkg.sha512",
+    "C:\\Users\\vm_10\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\vm_10\\.nuget\\packages\\microsoft.testplatform.objectmodel\\16.11.0\\microsoft.testplatform.objectmodel.16.11.0.nupkg.sha512",
+    "C:\\Users\\vm_10\\.nuget\\packages\\microsoft.testplatform.testhost\\16.11.0\\microsoft.testplatform.testhost.16.11.0.nupkg.sha512",
+    "C:\\Users\\vm_10\\.nuget\\packages\\mimetypesmap\\1.0.8\\mimetypesmap.1.0.8.nupkg.sha512",
+    "C:\\Users\\vm_10\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\vm_10\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\vm_10\\.nuget\\packages\\nuget.frameworks\\5.0.0\\nuget.frameworks.5.0.0.nupkg.sha512",
+    "C:\\Users\\vm_10\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\vm_10\\.nuget\\packages\\nunit.allure\\1.2.1.1\\nunit.allure.1.2.1.1.nupkg.sha512",
+    "C:\\Users\\vm_10\\.nuget\\packages\\nunit.allure.steps\\1.0.9\\nunit.allure.steps.1.0.9.nupkg.sha512",
+    "C:\\Users\\vm_10\\.nuget\\packages\\nunit3testadapter\\4.0.0\\nunit3testadapter.4.0.0.nupkg.sha512",
+    "C:\\Users\\vm_10\\.nuget\\packages\\selenium.support\\4.2.0\\selenium.support.4.2.0.nupkg.sha512",
+    "C:\\Users\\vm_10\\.nuget\\packages\\selenium.webdriver\\4.2.0\\selenium.webdriver.4.2.0.nupkg.sha512",
+    "C:\\Users\\vm_10\\.nuget\\packages\\system.reflection.metadata\\1.6.0\\system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}

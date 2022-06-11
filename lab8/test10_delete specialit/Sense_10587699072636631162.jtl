@@ -1,0 +1,19 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,success,bytes,sentBytes,grpThreads,allThreads,Latency,Hostname,Connect
+1654947837932,200,https://rest.sana-commerce.dev/petclinic/api/specialties,200,,Thread Group 1-1,true,14506,397,1,1,161,DESKTOP-O3K9QNA,112
+1654947838133,48,https://rest.sana-commerce.dev/petclinic/api/specialties/1,400,,Thread Group 1-1,false,762,485,1,1,48,DESKTOP-O3K9QNA,0
+1654947838183,50,https://rest.sana-commerce.dev/petclinic/api/specialties/45,400,,Thread Group 1-1,false,762,486,1,1,50,DESKTOP-O3K9QNA,0
+1654947838234,50,https://rest.sana-commerce.dev/petclinic/api/specialties/65,400,,Thread Group 1-1,false,762,486,2,2,50,DESKTOP-O3K9QNA,0
+1654947838285,51,https://rest.sana-commerce.dev/petclinic/api/specialties/76,400,,Thread Group 1-1,false,762,486,2,2,51,DESKTOP-O3K9QNA,0
+1654947837931,399,Test,,"Number of samples in transaction : 5, number of failing samples : 4",Thread Group 1-1,false,17554,2340,2,2,360,DESKTOP-O3K9QNA,112
+1654947838265,178,https://rest.sana-commerce.dev/petclinic/api/specialties,200,,Thread Group 1-2,true,14506,397,1,1,139,DESKTOP-O3K9QNA,91
+1654947838443,47,https://rest.sana-commerce.dev/petclinic/api/specialties/1,400,,Thread Group 1-2,false,762,485,1,1,47,DESKTOP-O3K9QNA,0
+1654947838490,52,https://rest.sana-commerce.dev/petclinic/api/specialties/45,400,,Thread Group 1-2,false,762,486,1,1,52,DESKTOP-O3K9QNA,0
+1654947838542,52,https://rest.sana-commerce.dev/petclinic/api/specialties/65,400,,Thread Group 1-2,false,762,486,1,1,52,DESKTOP-O3K9QNA,0
+1654947838594,49,https://rest.sana-commerce.dev/petclinic/api/specialties/76,400,,Thread Group 1-2,false,762,486,2,2,49,DESKTOP-O3K9QNA,0
+1654947838265,378,Test,,"Number of samples in transaction : 5, number of failing samples : 4",Thread Group 1-2,false,17554,2340,2,2,339,DESKTOP-O3K9QNA,91
+1654947838599,180,https://rest.sana-commerce.dev/petclinic/api/specialties,200,,Thread Group 1-3,true,14506,397,1,1,151,DESKTOP-O3K9QNA,92
+1654947838779,47,https://rest.sana-commerce.dev/petclinic/api/specialties/1,400,,Thread Group 1-3,false,762,485,1,1,47,DESKTOP-O3K9QNA,0
+1654947838827,49,https://rest.sana-commerce.dev/petclinic/api/specialties/45,400,,Thread Group 1-3,false,762,486,1,1,49,DESKTOP-O3K9QNA,0
+1654947838876,49,https://rest.sana-commerce.dev/petclinic/api/specialties/65,400,,Thread Group 1-3,false,762,486,1,1,49,DESKTOP-O3K9QNA,0
+1654947838925,50,https://rest.sana-commerce.dev/petclinic/api/specialties/76,400,,Thread Group 1-3,false,762,486,1,1,50,DESKTOP-O3K9QNA,0
+1654947838598,375,Test,,"Number of samples in transaction : 5, number of failing samples : 4",Thread Group 1-3,false,17554,2340,1,1,346,DESKTOP-O3K9QNA,92

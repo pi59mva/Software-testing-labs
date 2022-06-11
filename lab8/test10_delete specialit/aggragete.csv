@@ -1,0 +1,61 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1654947747954,181,https://rest.sana-commerce.dev/petclinic/api/specialties,200,,Thread Group 1-1,text,true,,14506,397,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties,142,0,94
+1654947748135,51,https://rest.sana-commerce.dev/petclinic/api/specialties/1,400,,Thread Group 1-1,text,false,,762,485,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/1,51,0,0
+1654947748187,49,https://rest.sana-commerce.dev/petclinic/api/specialties/45,400,,Thread Group 1-1,text,false,,762,486,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/45,49,0,0
+1654947748237,48,https://rest.sana-commerce.dev/petclinic/api/specialties/65,400,,Thread Group 1-1,text,false,,762,486,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/65,48,0,0
+1654947748286,49,https://rest.sana-commerce.dev/petclinic/api/specialties/76,400,,Thread Group 1-1,text,false,,762,486,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/76,49,0,0
+1654947747953,378,Test,,"Number of samples in transaction : 5, number of failing samples : 4",Thread Group 1-1,,false,,17554,2340,1,1,null,339,6,94
+1654947791238,175,https://rest.sana-commerce.dev/petclinic/api/specialties,200,,Thread Group 1-1,text,true,,14506,397,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties,138,0,91
+1654947791413,47,https://rest.sana-commerce.dev/petclinic/api/specialties/1,400,,Thread Group 1-1,text,false,,762,485,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/1,47,0,0
+1654947791461,47,https://rest.sana-commerce.dev/petclinic/api/specialties/45,400,,Thread Group 1-1,text,false,,762,486,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/45,47,0,0
+1654947791508,48,https://rest.sana-commerce.dev/petclinic/api/specialties/65,400,,Thread Group 1-1,text,false,,762,486,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/65,48,0,0
+1654947791557,46,https://rest.sana-commerce.dev/petclinic/api/specialties/76,400,,Thread Group 1-1,text,false,,762,486,2,2,https://rest.sana-commerce.dev/petclinic/api/specialties/76,46,0,0
+1654947791235,363,Test,,"Number of samples in transaction : 5, number of failing samples : 4",Thread Group 1-1,,false,,17554,2340,2,2,null,326,5,91
+1654947791569,169,https://rest.sana-commerce.dev/petclinic/api/specialties,200,,Thread Group 1-2,text,true,,14506,397,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties,138,0,87
+1654947791739,45,https://rest.sana-commerce.dev/petclinic/api/specialties/1,400,,Thread Group 1-2,text,false,,762,485,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/1,45,0,0
+1654947791784,47,https://rest.sana-commerce.dev/petclinic/api/specialties/45,400,,Thread Group 1-2,text,false,,762,486,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/45,47,0,0
+1654947791832,46,https://rest.sana-commerce.dev/petclinic/api/specialties/65,400,,Thread Group 1-2,text,false,,762,486,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/65,46,0,0
+1654947791878,50,https://rest.sana-commerce.dev/petclinic/api/specialties/76,400,,Thread Group 1-2,text,false,,762,486,2,2,https://rest.sana-commerce.dev/petclinic/api/specialties/76,50,0,0
+1654947791568,357,Test,,"Number of samples in transaction : 5, number of failing samples : 4",Thread Group 1-2,,false,,17554,2340,2,2,null,326,3,87
+1654947791903,182,https://rest.sana-commerce.dev/petclinic/api/specialties,200,,Thread Group 1-3,text,true,,14506,397,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties,142,0,94
+1654947792085,47,https://rest.sana-commerce.dev/petclinic/api/specialties/1,400,,Thread Group 1-3,text,false,,762,485,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/1,47,0,0
+1654947792132,50,https://rest.sana-commerce.dev/petclinic/api/specialties/45,400,,Thread Group 1-3,text,false,,762,486,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/45,50,0,0
+1654947792183,50,https://rest.sana-commerce.dev/petclinic/api/specialties/65,400,,Thread Group 1-3,text,false,,762,486,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/65,50,0,0
+1654947792233,49,https://rest.sana-commerce.dev/petclinic/api/specialties/76,400,,Thread Group 1-3,text,false,,762,486,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/76,49,0,0
+1654947791902,378,Test,,"Number of samples in transaction : 5, number of failing samples : 4",Thread Group 1-3,,false,,17554,2340,1,1,null,338,2,94
+1654947837932,200,https://rest.sana-commerce.dev/petclinic/api/specialties,200,,Thread Group 1-1,text,true,,14506,397,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties,161,0,112
+1654947838133,48,https://rest.sana-commerce.dev/petclinic/api/specialties/1,400,,Thread Group 1-1,text,false,,762,485,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/1,48,0,0
+1654947838183,50,https://rest.sana-commerce.dev/petclinic/api/specialties/45,400,,Thread Group 1-1,text,false,,762,486,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/45,50,0,0
+1654947838234,50,https://rest.sana-commerce.dev/petclinic/api/specialties/65,400,,Thread Group 1-1,text,false,,762,486,2,2,https://rest.sana-commerce.dev/petclinic/api/specialties/65,50,0,0
+1654947838285,51,https://rest.sana-commerce.dev/petclinic/api/specialties/76,400,,Thread Group 1-1,text,false,,762,486,2,2,https://rest.sana-commerce.dev/petclinic/api/specialties/76,51,0,0
+1654947837931,399,Test,,"Number of samples in transaction : 5, number of failing samples : 4",Thread Group 1-1,,false,,17554,2340,2,2,null,360,5,112
+1654947838265,178,https://rest.sana-commerce.dev/petclinic/api/specialties,200,,Thread Group 1-2,text,true,,14506,397,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties,139,0,91
+1654947838443,47,https://rest.sana-commerce.dev/petclinic/api/specialties/1,400,,Thread Group 1-2,text,false,,762,485,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/1,47,0,0
+1654947838490,52,https://rest.sana-commerce.dev/petclinic/api/specialties/45,400,,Thread Group 1-2,text,false,,762,486,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/45,52,0,0
+1654947838542,52,https://rest.sana-commerce.dev/petclinic/api/specialties/65,400,,Thread Group 1-2,text,false,,762,486,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/65,52,0,0
+1654947838594,49,https://rest.sana-commerce.dev/petclinic/api/specialties/76,400,,Thread Group 1-2,text,false,,762,486,2,2,https://rest.sana-commerce.dev/petclinic/api/specialties/76,49,0,0
+1654947838265,378,Test,,"Number of samples in transaction : 5, number of failing samples : 4",Thread Group 1-2,,false,,17554,2340,2,2,null,339,0,91
+1654947838599,180,https://rest.sana-commerce.dev/petclinic/api/specialties,200,,Thread Group 1-3,text,true,,14506,397,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties,151,0,92
+1654947838779,47,https://rest.sana-commerce.dev/petclinic/api/specialties/1,400,,Thread Group 1-3,text,false,,762,485,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/1,47,0,0
+1654947838827,49,https://rest.sana-commerce.dev/petclinic/api/specialties/45,400,,Thread Group 1-3,text,false,,762,486,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/45,49,0,0
+1654947838876,49,https://rest.sana-commerce.dev/petclinic/api/specialties/65,400,,Thread Group 1-3,text,false,,762,486,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/65,49,0,0
+1654947838925,50,https://rest.sana-commerce.dev/petclinic/api/specialties/76,400,,Thread Group 1-3,text,false,,762,486,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/76,50,0,0
+1654947838598,375,Test,,"Number of samples in transaction : 5, number of failing samples : 4",Thread Group 1-3,,false,,17554,2340,1,1,null,346,2,92
+1654947846927,174,https://rest.sana-commerce.dev/petclinic/api/specialties,200,,Thread Group 1-1,text,true,,14506,397,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties,137,0,90
+1654947847102,45,https://rest.sana-commerce.dev/petclinic/api/specialties/1,400,,Thread Group 1-1,text,false,,762,485,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/1,45,0,0
+1654947847148,46,https://rest.sana-commerce.dev/petclinic/api/specialties/45,400,,Thread Group 1-1,text,false,,762,486,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/45,46,0,0
+1654947847195,46,https://rest.sana-commerce.dev/petclinic/api/specialties/65,400,,Thread Group 1-1,text,false,,762,486,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/65,46,0,0
+1654947847242,47,https://rest.sana-commerce.dev/petclinic/api/specialties/76,400,,Thread Group 1-1,text,false,,762,486,2,2,https://rest.sana-commerce.dev/petclinic/api/specialties/76,47,0,0
+1654947846926,358,Test,,"Number of samples in transaction : 5, number of failing samples : 4",Thread Group 1-1,,false,,17554,2340,2,2,null,321,5,90
+1654947847262,194,https://rest.sana-commerce.dev/petclinic/api/specialties,200,,Thread Group 1-2,text,true,,14506,397,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties,155,0,104
+1654947847457,47,https://rest.sana-commerce.dev/petclinic/api/specialties/1,400,,Thread Group 1-2,text,false,,762,485,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/1,47,0,0
+1654947847504,50,https://rest.sana-commerce.dev/petclinic/api/specialties/45,400,,Thread Group 1-2,text,false,,762,486,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/45,50,0,0
+1654947847554,53,https://rest.sana-commerce.dev/petclinic/api/specialties/65,400,,Thread Group 1-2,text,false,,762,486,2,2,https://rest.sana-commerce.dev/petclinic/api/specialties/65,53,0,0
+1654947847608,48,https://rest.sana-commerce.dev/petclinic/api/specialties/76,400,,Thread Group 1-2,text,false,,762,486,2,2,https://rest.sana-commerce.dev/petclinic/api/specialties/76,48,0,0
+1654947847261,392,Test,,"Number of samples in transaction : 5, number of failing samples : 4",Thread Group 1-2,,false,,17554,2340,2,2,null,353,4,104
+1654947847593,183,https://rest.sana-commerce.dev/petclinic/api/specialties,200,,Thread Group 1-3,text,true,,14506,397,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties,145,0,96
+1654947847777,52,https://rest.sana-commerce.dev/petclinic/api/specialties/1,400,,Thread Group 1-3,text,false,,762,485,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/1,52,0,0
+1654947847829,50,https://rest.sana-commerce.dev/petclinic/api/specialties/45,400,,Thread Group 1-3,text,false,,762,486,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/45,50,0,0
+1654947847879,52,https://rest.sana-commerce.dev/petclinic/api/specialties/65,400,,Thread Group 1-3,text,false,,762,486,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/65,52,0,0
+1654947847931,49,https://rest.sana-commerce.dev/petclinic/api/specialties/76,400,,Thread Group 1-3,text,false,,762,486,1,1,https://rest.sana-commerce.dev/petclinic/api/specialties/76,49,0,0
+1654947847592,386,Test,,"Number of samples in transaction : 5, number of failing samples : 4",Thread Group 1-3,,false,,17554,2340,1,1,null,348,2,96

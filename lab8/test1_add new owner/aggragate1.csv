@@ -1,0 +1,18 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1654946645431,5364,https://client.sana-commerce.dev/,200,OK,Thread Group 1-2,text,true,,9645256,4638,3,3,https://client.sana-commerce.dev/,203,0,96
+1654946645431,203,https://client.sana-commerce.dev/-0,200,OK,Thread Group 1-2,text,true,,1778,506,3,3,https://client.sana-commerce.dev/,203,0,96
+1654946645636,198,https://client.sana-commerce.dev/-1,200,OK,Thread Group 1-2,bin,true,,5903,517,3,3,https://client.sana-commerce.dev/favicon.ico,191,0,0
+1654946645637,260,https://client.sana-commerce.dev/-2,200,OK,Thread Group 1-2,text,true,,6707,516,3,3,https://client.sana-commerce.dev/runtime.js,260,0,180
+1654946645637,1170,https://client.sana-commerce.dev/-3,200,OK,Thread Group 1-2,text,true,,474770,522,3,3,https://client.sana-commerce.dev/polyfills-es5.js,398,0,316
+1654946645637,1104,https://client.sana-commerce.dev/-4,200,OK,Thread Group 1-2,text,true,,300431,518,3,3,https://client.sana-commerce.dev/polyfills.js,403,0,293
+1654946645637,3039,https://client.sana-commerce.dev/-5,200,OK,Thread Group 1-2,text,true,,1224894,515,3,3,https://client.sana-commerce.dev/styles.js,262,0,190
+1654946645637,1269,https://client.sana-commerce.dev/-6,200,OK,Thread Group 1-2,text,true,,421276,516,3,3,https://client.sana-commerce.dev/scripts.js,338,0,201
+1654946645834,4961,https://client.sana-commerce.dev/-7,200,OK,Thread Group 1-2,text,true,,6865291,515,3,3,https://client.sana-commerce.dev/vendor.js,436,0,343
+1654946645897,1183,https://client.sana-commerce.dev/-8,200,OK,Thread Group 1-2,text,true,,344206,513,3,3,https://client.sana-commerce.dev/main.js,182,0,0
+1654946650800,152,https://rest.sana-commerce.dev/petclinic/api/owners,201,,Thread Group 1-2,text,true,,703,566,3,3,https://rest.sana-commerce.dev/petclinic/api/owners,151,0,99
+1654946650953,201,https://rest.sana-commerce.dev/petclinic/api/owners,200,,Thread Group 1-2,text,true,,83858,392,3,3,https://rest.sana-commerce.dev/petclinic/api/owners,72,0,0
+1654946645430,5717,Test,200,"Number of samples in transaction : 3, number of failing samples : 0",Thread Group 1-2,,true,,9729817,5596,3,3,null,426,8,195
+1654946645131,172,https://client.sana-commerce.dev/,200,OK,Thread Group 1-1,text,true,,1778,506,2,2,https://client.sana-commerce.dev/,171,0,122
+1654946645765,367,https://client.sana-commerce.dev/,200,OK,Thread Group 1-3,text,true,,1778,506,2,2,https://client.sana-commerce.dev/,367,0,268
+1654946645131,172,https://client.sana-commerce.dev/-0,200,OK,Thread Group 1-1,text,true,,1778,506,2,2,https://client.sana-commerce.dev/,171,0,122
+1654946645765,367,https://client.sana-commerce.dev/-0,200,OK,Thread Group 1-3,text,true,,1778,506,2,2,https://client.sana-commerce.dev/,367,0,268
